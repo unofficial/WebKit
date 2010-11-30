@@ -1,4 +1,0 @@
-xx
-This test simulates hitting page up and page down once each. Both keypresses should generate exactly one scroll event. This test requires DRT to pass.
-PASS
-(just here to force scrollbars)
